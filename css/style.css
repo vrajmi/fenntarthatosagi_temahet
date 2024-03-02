@@ -1,0 +1,43 @@
+body {
+  background-color: #1a3331;
+  color: #88a27e;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.nav-brand-text {
+  color: #88a27e;
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.play-button {
+  background-color: #188b34;
+  border-width: 0px;
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+}
+
+.corner-img {
+  position: absolute;
+  right: -150px;
+  bottom: -150px;
+}
+
+main {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+footer {
+  margin-top: auto;
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
