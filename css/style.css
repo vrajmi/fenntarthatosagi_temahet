@@ -24,7 +24,7 @@ body {
 }
 
 .corner-img {
-  position: absolute;
+  position: fixed;
   right: -150px;
   bottom: -150px;
 }
@@ -40,4 +40,28 @@ footer {
   font-family: "Poppins", sans-serif;
   font-weight: 200;
   font-style: normal;
+}
+
+@media (max-width: 767px) {
+  body {
+    overflow-y: scroll;
+  }
+
+  .corner-img {
+    position: fixed;
+    right: -200px;
+    bottom: -200px;
+  }
+}
+
+@media (max-width: 1023px) {
+  .corner-img {
+    display: none;
+  }
+}
+
+@media (max-width: 320px) {
+  .corner-img {
+    display: none;
+  }
 }
