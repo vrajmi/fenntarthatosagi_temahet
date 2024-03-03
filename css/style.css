@@ -35,11 +35,28 @@ main {
   font-style: normal;
 }
 
+.box {
+  background: linear-gradient(to right, #88a27e 4px, transparent 4px) 0 0,
+    linear-gradient(to left, #88a27e 4px, transparent 4px) 100% 100%,
+    linear-gradient(to bottom, #88a27e 4px, transparent 4px) 0 0,
+    linear-gradient(to top, #88a27e 4px, transparent 4px) 100% 100%;
+
+  background-repeat: no-repeat;
+  background-size: 20px 20px;
+  padding: 10px;
+}
+
 footer {
   margin-top: auto;
   font-family: "Poppins", sans-serif;
   font-weight: 200;
   font-style: normal;
+}
+
+@media (max-width: 320px) {
+  .corner-img {
+    display: none;
+  }
 }
 
 @media (max-width: 767px) {
@@ -60,8 +77,20 @@ footer {
   }
 }
 
-@media (max-width: 320px) {
-  .corner-img {
-    display: none;
+.animate {
+  position: relative;
+  animation-name: animate;
+  animation-duration: 1s;
+}
+
+@keyframes animate {
+  from {
+    bottom: -10px;
+    opacity: 0.5;
+  }
+
+  to {
+    bottom: 0;
+    opacity: 1;
   }
 }
