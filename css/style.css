@@ -8,6 +8,10 @@ body {
   flex-direction: column;
 }
 
+.brand {
+  margin: 30px;
+}
+
 .nav-brand-text {
   color: #88a27e;
   font-family: "Poppins", sans-serif;
