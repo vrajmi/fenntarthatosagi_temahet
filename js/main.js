@@ -1,10 +1,11 @@
 let counter = 0;
 let score = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+let a = document.getElementById("content");
+let sum = 0;
 function startt() {
   fetch("../data.json")
     .then((res) => res.json())
     .then((data) => {
-      let a = document.getElementById("content");
       a.innerHTML = '<h1 id="question">' + data.questions[0].question + '</h1>' +
         '<hr>' +
         '<div class="row">' +
@@ -78,12 +79,11 @@ function next() {
         }
         else {
           counter--
-          let sum = 0;
 
           for (let i = 0; i < score.length; i++) {
             sum += parseInt(score[i]);
           }
-          alert(sum)
+          endScreen();
         }
       } else {
         alert("Válassz egyet!");
@@ -117,4 +117,8 @@ function answer3() {
   score[counter] = parseInt(document.getElementById("answer3").value)
   console.log(score)
   next();
+}
+function endScreen(){
+  document.getElementById("stylee").innerHTML=""; //Ebbe rkhatsz plusz csst amit szeretnél. Ha az alap csst akarod használni amit rajmund összerakott akkor hagy így mert így törli ki azt amit én raktam össze.
+  a.innerHTML = ''+sum+''//Ide kell beraknod azt hogy mit szeretnél látni a vége résznél
 }
