@@ -3,131 +3,131 @@
     {
       "question": "1. Mikor szoktál felkelni hétvégente?",
       "answer1": "a) Általában koránkelő vagyok, legkésőbb 7-kor már ébren vagyok.",
-      "answerpoint1" : 1,
+      "answerpoint1": 1,
       "answer2": "b) Korán kelni? Soha! Ha lehet, akkor délnél előbb fel sem kelek.",
-      "answerpoint2" : 2,
-      "answer3": "c)Rosszul alszom, ezért mindig addig alszom, amíg csak lehet.",
-      "answerpoint3" : 3
+      "answerpoint2": 2,
+      "answer3": "c) Rosszul alszom, ezért mindig addig alszom, amíg csak lehet.",
+      "answerpoint3": 3
     },
 
     {
       "question": "2. Szoktál esténként nassolni?",
       "answer1": "a) Egy jó film vagy sorozat, egy pizza, chips vagy pattogatott kukorica… ez az ideális esti program. ;)",
-      "answerpoint1" : 1,
+      "answerpoint1": 1,
       "answer2": "b) Igen, de ha lehet, akkor aszalt gyümölcsöt vagy olajos magvakat. ",
-      "answerpoint2" : 2,
-      "answer3": "c)Este sosem. Vigyázok az alakomra!",
-      "answerpoint3" : 3
+      "answerpoint2": 2,
+      "answer3": "c) Este sosem. Vigyázok az alakomra!",
+      "answerpoint3": 3
     },
 
     {
       "question": "3. Mennyit sportolsz?",
       "answer1": "a) A sport az életem. Minden nap van valami: edzés, futás, aerobic…",
-      "answerpoint1" : 1,
+      "answerpoint1": 1,
       "answer2": "b) Heti 3 alkalommal biztos. Szeretek mozogni.",
-      "answerpoint2" : 2,
-      "answer3": "c)Biztos, hogy nem. Lustaság fél egészség!",
-      "answerpoint3" : 3
+      "answerpoint2": 2,
+      "answer3": "c) Biztos, hogy nem. Lustaság fél egészség!",
+      "answerpoint3": 3
     },
 
     {
       "question": "4. Mi a kedvenc sportod?",
       "answer1": "a) Csapatjátékok leginkább ",
-      "answerpoint1" : 1,
+      "answerpoint1": 1,
       "answer2": "b) Az egyszemélyes sportok híve vagyok ",
-      "answerpoint2" : 2,
-      "answer3": "c)Sport? Mi is az? ",
-      "answerpoint3" : 3
+      "answerpoint2": 2,
+      "answer3": "c) Sport? Mi is az? ",
+      "answerpoint3": 3
     },
 
     {
       "question": "5. Mi az, amit a legszívesebben megennél most?",
       "answer1": "a) Egy jó steak vagy oldalas, ha lehet hasábbal és egy kis salátával.",
-      "answerpoint1" : 1,
+      "answerpoint1": 1,
       "answer2": "b) Egy lazacfilé salátával és dresszinggel jólesne most. ",
-      "answerpoint2" : 2,
-      "answer3": "c)Elég lesz egy csokitorta is, köszönöm! ",
-      "answerpoint3" : 3
+      "answerpoint2": 2,
+      "answer3": "c) Elég lesz egy csokitorta is, köszönöm! ",
+      "answerpoint3": 3
     },
 
     {
       "question": "6. Milyen táplálékkiegészítőket szedsz rendszeresen?",
       "answer1": "a) Az meg mi? ",
-      "answerpoint1" : 1,
+      "answerpoint1": 1,
       "answer2": "b) Vitaminokat, abból is inkább C-, D vitamin.",
-      "answerpoint2" : 2,
+      "answerpoint2": 2,
       "answer3": "c) Pro- és prebiotikumokat, vitaminokat és proteint, ha edzek.",
-      "answerpoint3" : 3
+      "answerpoint3": 3
     },
 
     {
       "question": "7. Mennyi húst eszel egy héten?",
       "answer1": "a) Legalább 4-5 kg-ot biztosan. Kell az erő. ",
-      "answerpoint1" : 1,
+      "answerpoint1": 1,
       "answer2": "b) Általában 2 kg, vagy annál kevesebb. ",
-      "answerpoint2" : 2,
+      "answerpoint2": 2,
       "answer3": "c) Nem eszem húst, vegetáriánus vagyok. ",
-      "answerpoint3" : 3
+      "answerpoint3": 3
     },
 
     {
       "question": "8. Próbáltad már a húshelyettesítő termékeket?",
       "answer1": "a) Igen, nekem ízlett.",
-      "answerpoint1" : 1,
+      "answerpoint1": 1,
       "answer2": "b) Nem, minek? Ha húst akarok enni, akkor azt eszem. ",
-      "answerpoint2" : 2,
+      "answerpoint2": 2,
       "answer3": "c) Igen, de nem az én világom. ",
-      "answerpoint3" : 3
+      "answerpoint3": 3
     },
 
     {
       "question": "9. Mennyi tejterméket fogyasztasz?",
       "answer1": "a) Minden, ami tej, sajt, az jöhet. Bármennyi, bármikor. ",
-      "answerpoint1" : 1,
+      "answerpoint1": 1,
       "answer2": "b) Csak akkor, ha megkívánom. Amúgy nem vagyok nagy sajtos. ",
-      "answerpoint2" : 2,
+      "answerpoint2": 2,
       "answer3": "c) Nem eszem ilyesmit. Ha igen, az is inkább növényi.",
-      "answerpoint3" : 3
+      "answerpoint3": 3
     },
 
     {
       "question": "10. Tudod mit jelent a mikrobiom?",
       "answer1": "a) A velünk élő mikróbák, ezek egy része a bélrendszerben található jótékony baktériumok.",
-      "answerpoint1" : 1,
+      "answerpoint1": 1,
       "answer2": "b) A bélben található rossz baktériumok. ",
-      "answerpoint2" : 2,
+      "answerpoint2": 2,
       "answer3": "c) Nem tudom mi az, de nem is szeretem ezeket a latin szavas dolgokat. ",
-      "answerpoint3" : 3
+      "answerpoint3": 3
     },
 
     {
       "question": "11. Mennyi vizet iszol egy nap?",
       "answer1": "a) 1,5 L lecsúszik nagy nehezen. ",
-      "answerpoint1" : 1,
+      "answerpoint1": 1,
       "answer2": "b) Inkább Cola, Fanta, Hell. Ez számít? ",
-      "answerpoint2" : 2,
+      "answerpoint2": 2,
       "answer3": "c) 2-2,5 L napi szinten megvan",
-      "answerpoint3" : 3
+      "answerpoint3": 3
     },
 
     {
       "question": "12. Mennyi a képernyőidőd a telefonodon egy hét alatt?",
       "answer1": "a) 50 óra fölött ",
-      "answerpoint1" : 1,
+      "answerpoint1": 1,
       "answer2": "b) 25 óra vagy alatta ",
-      "answerpoint2" : 2,
+      "answerpoint2": 2,
       "answer3": "c) 50 és 25 óra között ",
-      "answerpoint3" : 3
+      "answerpoint3": 3
     },
 
     {
       "question": "13. Hogy alszol el?",
       "answer1": "a) Lefekvés előtt olvasok egy könyvet vagy beszélgetek a szüleimmel/tesómmal, alváskor sötét a szobám. ",
-      "answerpoint1" : 1,
+      "answerpoint1": 1,
       "answer2": "b) Tévézek vagy zenét hallgatok előtte. ",
-      "answerpoint2" : 2,
+      "answerpoint2": 2,
       "answer3": "c) Tévére, zenére alszom el és (ha van) éjjeli fénnyel alszom. ",
-      "answerpoint3" : 3
+      "answerpoint3": 3
     }
   ]
 }
