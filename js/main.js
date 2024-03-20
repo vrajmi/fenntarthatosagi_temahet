@@ -283,5 +283,4 @@ function endScreen() {
   else {
     document.getElementById("here").innerHTML = "Ajjaj, nagy a baj. Nem figyelsz az étkezésedre. Ha ezen nem változtatsz, komoly egészségügyi következményei is lehetnek (mint a cukorbetegség, a magas vérnyomás vagy a korai csontritkulás)."
   }
-  alert(sum);
 }
