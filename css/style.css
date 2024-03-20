@@ -80,15 +80,8 @@ footer {
   .corner-img {
     display: none;
   }
-  .box{
-    max-width: 100%;
-  }
 }
-@media (max-width: 1523px) {
-  .box {
-    max-width: 75%;
-  }
-}
+
 .animate {
   position: relative;
   animation-name: animate;
