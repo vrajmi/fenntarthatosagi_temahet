@@ -98,6 +98,13 @@ function next() {
             data.questions[counter].answer3;
           document.getElementById("question").innerHTML =
             data.questions[counter].question;
+
+          document.getElementById("answer1").value =
+            data.questions[counter].answerpoint1;
+          document.getElementById("answer2").value =
+            data.questions[counter].answerpoint2;
+          document.getElementById("answer3").value =
+            data.questions[counter].answerpoint3;
         } else {
           counter--;
 
@@ -126,6 +133,13 @@ function back() {
           data.questions[counter].answer3;
         document.getElementById("question").innerHTML =
           data.questions[counter].question;
+
+        document.getElementById("answer1").value =
+          data.questions[counter].answerpoint1;
+        document.getElementById("answer2").value =
+          data.questions[counter].answerpoint2;
+        document.getElementById("answer3").value =
+          data.questions[counter].answerpoint3;
       }
     });
 }
